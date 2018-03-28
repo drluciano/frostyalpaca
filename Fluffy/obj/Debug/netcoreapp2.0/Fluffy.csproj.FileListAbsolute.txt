@@ -1,0 +1,11 @@
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\bin\Debug\netcoreapp2.0\Fluffy.deps.json
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\bin\Debug\netcoreapp2.0\Fluffy.runtimeconfig.json
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\bin\Debug\netcoreapp2.0\Fluffy.runtimeconfig.dev.json
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\bin\Debug\netcoreapp2.0\Fluffy.dll
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\obj\Debug\netcoreapp2.0\Fluffy.csprojResolveAssemblyReference.cache
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\obj\Debug\netcoreapp2.0\Fluffy.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\obj\Debug\netcoreapp2.0\Fluffy.AssemblyInfoInputs.cache
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\obj\Debug\netcoreapp2.0\Fluffy.AssemblyInfo.cs
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\bin\Debug\netcoreapp2.0\Fluffy.pdb
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\obj\Debug\netcoreapp2.0\Fluffy.dll
+C:\Users\Dylan Luciano\source\repos\Fluffy\Fluffy\obj\Debug\netcoreapp2.0\Fluffy.pdb
